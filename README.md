@@ -1,5 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👩🏻‍💻 Thiago de Lima 
 
+**`Desenvolvedor BackEnd`**
+
+Me chamo Thiago de Lima Machado, tenho 18 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na FAG. Sou fascinado por tecnologia e compartilho sempre que posso o que descubro! 
 ###
 
 <div align="center">
