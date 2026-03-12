@@ -31,7 +31,7 @@ Me chamo Thiago de Lima Machado, tenho 18 anos e sou natural do Paraná. Atualme
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=th14goLM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=th14goLM&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 ###
