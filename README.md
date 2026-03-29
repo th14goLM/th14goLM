@@ -1,21 +1,17 @@
 # 👩🏻‍💻 Thiago de Lima 
 
+
 **`Desenvolvedor BackEnd`**
 
-Me chamo Thiago de Lima Machado, tenho 18 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na FAG. Sou fascinado por tecnologia e compartilho sempre que posso o que descubro! 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-</div>
+<p>👨‍💻 Software Engineer in progress</p>
+<p>🎓 (2/4) Graduating in Software Enginner at <a href="https://www.fag.edu.br/engenharia-software">Centro FAG</a>!</p>
+<p>📚 I'm fascinated by technology and I share what discover whenever can!</p>
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,html,css,js,github,idea,notion" />
+  </a>
+</p>
 
 ###
 
